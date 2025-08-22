@@ -90,3 +90,7 @@
     flex-direction: column;
   }
 }
+
+header {
+  text-align: center;
+}
